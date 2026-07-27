@@ -1,8 +1,27 @@
 aid: flatlooker
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/flatlooker.png
 name: Flatlooker
-description: 'Flatlooker is a company surfaced as a portfolio company of partech and added to the API
-  Evangelist network as a stub for enrichment. Sector: Marketplace. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Flatlooker (founded 2016) is a French digital real-estate agency for online rental search, tenant
+  placement, and full rental property management (gestion locative). It now operates under the Manda
+  brand (formerly Flatlooker and Hello Syndic); flatlooker.com redirects to manda.fr. Manda covers
+  rental and property management, sales, condominium (syndic) management, and energy renovation for
+  owners, tenants, investors, and co-ownerships across France, working primarily online — remote
+  viewings, electronic dossiers and signatures, and mobile apps to track properties in real time —
+  while relying on local agents in Paris, Lyon, and Marseille. Flatlooker was surfaced as a Partech
+  portfolio company. It publishes no public developer API; this profile captures its live llms.txt
+  and probed domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/flatlooker/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +29,18 @@ x-backed-by:
 - partech
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-rebrand: Manda (formerly Flatlooker + Hello Syndic)
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Marketplace
+- Real Estate
+- Property Management
+- Rental
+- Proptech
+- France
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +48,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/flatlooker-domain-security.yml
+- type: LLMsTxt
+  url: llms/flatlooker-llms.txt
 - type: Website
   url: https://www.flatlooker.com/
+- type: Pricing
+  url: https://www.manda.fr/tarifs
+- type: Blog
+  url: https://www.manda.fr/ressources
+- type: HelpCenter
+  url: https://support.manda.fr/hc/fr
+- type: Support
+  url: https://support.manda.fr/hc/fr
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

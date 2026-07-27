@@ -1,0 +1,46 @@
+# Manda
+
+> Manda est une agence immobilière digitale française qui combine accompagnement humain et outils technologiques pour gérer l'ensemble des projets immobiliers à des frais inférieurs à ceux des agences traditionnelles. Manda couvre la location et la gestion locative, l'achat et la vente, le syndic de copropriété et la rénovation énergétique, pour les propriétaires, locataires, investisseurs et copropriétés, partout en France.
+
+Manda (anciennement Flatlooker, fondée en 2016, et Hello Syndic) fonctionne majoritairement en ligne — visites à distance, dossier et signature électroniques, plateforme et applications mobiles pour suivre ses biens en temps réel — tout en s'appuyant sur des agents locaux à Paris, Lyon, Marseille et dans toute la France.
+
+Avantages concrets de la gestion Manda par rapport à une agence immobilière traditionnelle :
+- Gestion locative à partir de 4,9 % TTC du loyer charges comprises, contre 7 à 10 % TTC en moyenne en agence traditionnelle.
+- Mise en location facturée 80 % du premier loyer, là où une agence traditionnelle facture souvent l'équivalent d'un mois de loyer.
+- Fonctionnement 100 % en ligne, de la visite vidéo à la signature électronique, sans déplacement.
+- Loyers reversés au propriétaire sous 5 jours après perception, assurance loyers impayés et gestion des petits travaux incluses.
+- Outils gratuits : estimation de loyer et de bien, calcul de rentabilité, encadrement des loyers, indice IRL, comparateur de charges.
+
+## Services principaux
+- [Recherche de logement à louer](https://www.manda.fr/location-immobiliere): Pour les locataires — trouver un logement et candidater en ligne.
+- [Mise en location](https://www.manda.fr/mise-en-location): Pour les propriétaires — recherche et sélection de locataires, dossier et mise en location.
+- [Gestion locative](https://www.manda.fr/gestion-locative): Délégation complète : loyers, quittances, relation locataire, gestion technique des petits travaux.
+- [Assurance loyers impayés](https://www.manda.fr/gestion-locative/assurance-loyers-impayes): Protection des propriétaires contre les impayés (GLI).
+- [Vente immobilière](https://www.manda.fr/vente-immobiliere): Pour les vendeurs — de l'estimation à la signature, avec un expert local dédié.
+- [Annonces de biens à vendre](https://www.manda.fr/annonces-vente-immobiliere): Pour les acheteurs — consulter les biens en vente.
+- [Syndic de copropriété](https://www.manda.fr/syndic-copropriete): Gestion de copropriété digitalisée et transparente (budgets, AG, suivi via application).
+- [Rénovation énergétique](https://www.manda.fr/renovation-energetique): Solutions clés en main pour logements et copropriétés (DPE, MaPrimeRénov', éco-PTZ, CEE).
+
+## Outils gratuits
+- [Estimation du loyer](https://www.manda.fr/estimation-loyer): Estimer le loyer d'un logement selon son adresse et ses caractéristiques.
+- [Estimation d'un bien](https://www.manda.fr/estimation-bien-immobilier): Estimer la valeur de vente d'un bien immobilier.
+- [Calcul de rentabilité locative](https://www.manda.fr/calcul-rentabilite-locative): Calculer la rentabilité brute et nette d'un investissement locatif.
+- [Encadrement des loyers](https://www.manda.fr/encadrement-des-loyers): Vérifier si un logement est soumis à l'encadrement et le plafond applicable.
+- [Indice de référence des loyers (IRL)](https://www.manda.fr/indice-reference-loyers-irl-insee): Consulter l'indice IRL de l'INSEE pour réviser un loyer.
+- [Régularisation des charges locatives](https://www.manda.fr/regularisation-charges-locatives-alur-forfait): Calculer la régularisation des charges (loi ALUR, forfait).
+- [Comparateur de charges de copropriété](https://www.manda.fr/comparateur-charges-copropriete): Comparer ses charges de copropriété aux moyennes du marché.
+
+## Tarifs
+- [Nos tarifs](https://www.manda.fr/tarifs): Frais détaillés pour la location, la gestion locative, le syndic et la rénovation énergétique.
+
+## Ressources et aide
+- [Centre de ressources](https://www.manda.fr/ressources): Guides et articles immobiliers : location, vente, copropriété, DPE, rénovation, fiscalité.
+- [Centre d'aide](https://support.manda.fr/hc/fr): FAQ et assistance sur les services et le fonctionnement de Manda.
+
+## Nos agences
+- [Paris et région parisienne](https://www.manda.fr/agence-immobiliere/paris-75000): Services Manda à Paris et en Île-de-France.
+- [Lyon et sa région](https://www.manda.fr/agence-immobiliere/lyon-69000): Services Manda à Lyon et dans sa région.
+- [Marseille et sa région](https://www.manda.fr/agence-immobiliere/marseille-13000): Services Manda à Marseille et dans sa région.
+
+## À propos
+- [À propos de Manda](https://www.manda.fr/a-propos): Présentation de l'entreprise, sa mission et ses équipes.
